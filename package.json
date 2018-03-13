@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-webcrawler",
+  "version": "1.0.0",
+  "description": "Just for fun only",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web",
+    "crawler",
+    "hacker"
+  ],
+  "author": "OrionStark_Robby <robbybellamy6@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0"
+  }
+}
